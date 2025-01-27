@@ -40,9 +40,9 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no dia a dia e em 
 
 ## 📈 Minhas Contribuições  
 Aqui estão algumas **métricas do meu perfil**:  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=afonsodolmen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsodolmen&layout=compact&theme=radical)  
+  
+![AfonsoDolmen's Stats](https://github-readme-stats.vercel.app/api?username=AfonsoDolmen&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
+![AfonsoDolmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoDolmen&theme=vue-dark&show_icons=true&hide_border=false)
 
 ---
 
