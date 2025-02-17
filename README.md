@@ -21,7 +21,10 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no dia a dia e em 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Django Rest Framework](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white) 
+![Django Rest Framework](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 **Front-end:**  
 
