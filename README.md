@@ -9,7 +9,10 @@ Sou **desenvolvedor backend** apaixonado por **Python** e **Django**. Atualmente
 - 🛠 **Tecnologias que utilizo no backend**:  
   - **Python**  
   - **Django**  
-  - **Django Rest Framework (DRF)** para desenvolvimento de APIs.  
+  - **Django Rest Framework (DRF)**
+  - **FastAPI**
+  - **MySQL**
+  - **PostgreSQL**  
 - 🌱 **Sempre aprendendo** e buscando evolução contínua como profissional.  
 
 ---
