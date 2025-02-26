@@ -12,7 +12,8 @@ Sou **desenvolvedor backend** apaixonado por **Python** e **Django**. Atualmente
   - **Django Rest Framework (DRF)**
   - **FastAPI**
   - **MySQL**
-  - **PostgreSQL**  
+  - **PostgreSQL**
+  - **Docker**   
 - 🌱 **Sempre aprendendo** e buscando evolução contínua como profissional.  
 
 ---
