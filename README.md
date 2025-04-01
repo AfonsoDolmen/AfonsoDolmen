@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou **Afonso**
 
-Sou **desenvolvedor backend** apaixonado por **Python** e **Django**. Atualmente, trabalho como **desenvolvedor júnior**, mas minha jornada começou com pequenos projetos freelancer no **front-end**. Minha missão é construir sistemas robustos, escaláveis e eficientes.  
+Sou **desenvolvedor backend** apaixonado por **Python** e **Django**. Atualmente, trabalho como **desenvolvedor**, mas minha jornada começou com pequenos projetos freelancer no **front-end**. Minha missão é construir sistemas robustos, escaláveis e eficientes.  
 
 ---
 
